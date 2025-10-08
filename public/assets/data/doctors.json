@@ -1,0 +1,111 @@
+[
+  {
+    "id": "dr001",
+    "name": "Dr. Maria Santos",
+    "specialty": "Internal Medicine",
+    "hospital": "Philippine General Hospital",
+    "available": true,
+    "contact": {
+      "phone": "+63 2 8554-8400",
+      "email": "msantos@pgh.gov.ph"
+    },
+    "nowServingUrl": "https://nowserving.ph/dr-maria-santos",
+    "availability": {
+      "monday": ["09:00", "17:00"],
+      "tuesday": ["09:00", "17:00"],
+      "wednesday": ["09:00", "12:00"],
+      "thursday": ["09:00", "17:00"],
+      "friday": ["09:00", "17:00"]
+    }
+  },
+  {
+    "id": "dr002",
+    "name": "Dr. Jose Reyes",
+    "specialty": "Endocrinology",
+    "hospital": "St. Luke's Medical Center",
+    "available": true,
+    "contact": {
+      "phone": "+63 2 8789-7700",
+      "email": "jreyes@stluke.com.ph"
+    },
+    "nowServingUrl": "https://nowserving.ph/dr-jose-reyes",
+    "availability": {
+      "monday": ["08:00", "16:00"],
+      "tuesday": ["08:00", "16:00"],
+      "wednesday": ["08:00", "16:00"],
+      "thursday": ["08:00", "16:00"],
+      "friday": ["08:00", "12:00"]
+    }
+  },
+  {
+    "id": "dr003",
+    "name": "Dr. Carmen Lopez",
+    "specialty": "Nephrology",
+    "hospital": "The Medical City",
+    "available": false,
+    "contact": {
+      "phone": "+63 2 8988-1000",
+      "email": "clopez@themedicalcity.com"
+    },
+    "nowServingUrl": "https://nowserving.ph/dr-carmen-lopez",
+    "availability": {
+      "tuesday": ["10:00", "18:00"],
+      "thursday": ["10:00", "18:00"],
+      "saturday": ["08:00", "12:00"]
+    }
+  },
+  {
+    "id": "dr004",
+    "name": "Dr. Roberto Cruz",
+    "specialty": "Cardiology",
+    "hospital": "Philippine Heart Center",
+    "available": true,
+    "contact": {
+      "phone": "+63 2 8925-2401",
+      "email": "rcruz@phc.gov.ph"
+    },
+    "nowServingUrl": "https://nowserving.ph/dr-roberto-cruz",
+    "availability": {
+      "monday": ["07:00", "15:00"],
+      "wednesday": ["07:00", "15:00"],
+      "friday": ["07:00", "15:00"]
+    }
+  },
+  {
+    "id": "dr005",
+    "name": "Dr. Anna Dela Cruz",
+    "specialty": "Family Medicine",
+    "hospital": "Makati Medical Center",
+    "available": true,
+    "contact": {
+      "phone": "+63 2 8888-8999",
+      "email": "adelacruz@makatimed.net.ph"
+    },
+    "nowServingUrl": "https://nowserving.ph/dr-anna-dela-cruz",
+    "availability": {
+      "monday": ["09:00", "17:00"],
+      "tuesday": ["09:00", "17:00"],
+      "wednesday": ["09:00", "17:00"],
+      "thursday": ["09:00", "17:00"],
+      "friday": ["09:00", "17:00"],
+      "saturday": ["09:00", "13:00"]
+    }
+  },
+  {
+    "id": "dr006",
+    "name": "Dr. Michael Tan",
+    "specialty": "Pulmonology",
+    "hospital": "Lung Center of the Philippines",
+    "available": false,
+    "contact": {
+      "phone": "+63 2 8924-6101",
+      "email": "mtan@lcp.gov.ph"
+    },
+    "nowServingUrl": "https://nowserving.ph/dr-michael-tan",
+    "availability": {
+      "tuesday": ["08:00", "16:00"],
+      "thursday": ["08:00", "16:00"],
+      "saturday": ["08:00", "12:00"]
+    }
+  }
+]

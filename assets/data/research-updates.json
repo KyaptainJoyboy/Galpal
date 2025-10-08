@@ -1,0 +1,37 @@
+[
+  {
+    "title": "New Guidelines for Diabetes Management in Southeast Asia",
+    "summary": "Updated recommendations for HbA1c targets and medication protocols specific to Filipino patients, considering genetic factors and lifestyle patterns.",
+    "date": "2025-01-10",
+    "source": "Philippine Society of Endocrinology",
+    "link": "https://pse.org.ph/guidelines/diabetes-2025"
+  },
+  {
+    "title": "AI-Assisted Medical Screening Shows Promise in Rural Healthcare",
+    "summary": "Recent study demonstrates 87% accuracy in preliminary health assessments using AI tools similar to GalPal, particularly effective in remote areas.",
+    "date": "2025-01-05",
+    "source": "Journal of Medical AI",
+    "link": "https://example.com/ai-screening-study"
+  },
+  {
+    "title": "Telemedicine Adoption Accelerates in Philippines",
+    "summary": "DOH reports 300% increase in telemedicine consultations since 2023, with improved patient outcomes in chronic disease management.",
+    "date": "2024-12-28",
+    "source": "Department of Health Philippines",
+    "link": "https://doh.gov.ph/telemedicine-report-2024"
+  },
+  {
+    "title": "Home Testing Accuracy Validation Study",
+    "summary": "Comparative study shows home glucose and cholesterol testing devices achieve 95%+ correlation with laboratory results when used correctly.",
+    "date": "2024-12-20",
+    "source": "Clinical Chemistry International",
+    "link": "https://example.com/home-testing-validation"
+  },
+  {
+    "title": "Updated Cholesterol Guidelines Emphasize Prevention",
+    "summary": "New international guidelines lower LDL targets for high-risk patients and emphasize lifestyle interventions for primary prevention.",
+    "date": "2024-12-15",
+    "source": "World Health Organization",
+    "link": "https://who.int/cholesterol-guidelines-2024"
+  }
+]

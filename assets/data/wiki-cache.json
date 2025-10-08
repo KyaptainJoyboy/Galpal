@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "title": "Blood Glucose Levels - Complete Guide",
+    "summary": "Blood glucose testing measures the amount of sugar (glucose) in your blood. Normal fasting glucose levels are between 70-100 mg/dL. Levels above 126 mg/dL on two separate tests indicate diabetes. Regular monitoring is essential for diabetes management and can help detect prediabetes early.",
+    "source": "American Diabetes Association",
+    "sourceUrl": "https://diabetes.org/a1c",
+    "redFlags": "Seek immediate medical attention if glucose levels are below 70 mg/dL (hypoglycemia) or above 250 mg/dL with symptoms like excessive thirst, frequent urination, or ketones in urine.",
+    "normalValues": "Fasting: 70-100 mg/dL; Random: <140 mg/dL; 2-hour post-meal: <140 mg/dL",
+    "cachedAt": "2025-01-12T10:00:00.000Z",
+    "keywords": ["glucose", "blood sugar", "diabetes", "hyperglycemia", "hypoglycemia", "fasting glucose"]
+  },
+  {
+    "id": 2,
+    "title": "Cholesterol Management and Heart Health",
+    "summary": "Cholesterol is a waxy substance produced by your liver and obtained from food. Total cholesterol should be below 200 mg/dL. LDL (bad) cholesterol should be under 100 mg/dL, while HDL (good) cholesterol should be above 40 mg/dL for men and 50 mg/dL for women. High cholesterol increases risk of heart disease and stroke.",
+    "source": "American Heart Association",
+    "sourceUrl": "https://www.heart.org/cholesterol",
+    "redFlags": "Total cholesterol >240 mg/dL, LDL >190 mg/dL, or HDL <40 mg/dL with other risk factors require immediate medical intervention and possible medication.",
+    "normalValues": "Total: <200 mg/dL; LDL: <100 mg/dL; HDL: ≥40 mg/dL (men), ≥50 mg/dL (women); Triglycerides: <150 mg/dL",
+    "cachedAt": "2025-01-12T10:00:00.000Z",
+    "keywords": ["cholesterol", "ldl", "hdl", "triglycerides", "heart disease", "cardiovascular", "statins"]
+  },
+  {
+    "id": 3,
+    "title": "Urinary Tract Infections (UTI) - Diagnosis and Treatment",
+    "summary": "UTIs are infections affecting the bladder, urethra, or kidneys. Common symptoms include burning during urination, frequent urination, cloudy or bloody urine, and pelvic pain. Urinalysis can detect bacteria, white blood cells, and nitrites. Most UTIs are easily treated with antibiotics when caught early.",
+    "source": "Mayo Clinic",
+    "sourceUrl": "https://www.mayoclinic.org/diseases-conditions/urinary-tract-infection",
+    "redFlags": "Fever above 101°F, severe back or side pain, nausea/vomiting, or blood in urine may indicate kidney infection requiring immediate medical care.",
+    "normalValues": "Normal urine: Clear, pale yellow, pH 4.5-8.0, no bacteria, no protein, no glucose, specific gravity 1.005-1.030",
+    "cachedAt": "2025-01-12T10:00:00.000Z",
+    "keywords": ["uti", "urinary tract infection", "bladder infection", "cystitis", "pyelonephritis", "urinalysis"]
+  },
+  {
+    "id": 4,
+    "title": "Blood Pressure Guidelines and Management",
+    "summary": "Blood pressure measures the force of blood against artery walls. Normal BP is less than 120/80 mmHg. High blood pressure (hypertension) is 130/80 mmHg or higher. Lifestyle changes including diet, exercise, and stress management can help control blood pressure. Many people need medication to reach target levels.",
+    "source": "American Heart Association",
+    "sourceUrl": "https://www.heart.org/en/health-topics/high-blood-pressure",
+    "redFlags": "Blood pressure >180/120 mmHg is a hypertensive crisis requiring immediate medical attention. Symptoms may include severe headache, chest pain, difficulty breathing, or vision changes.",
+    "normalValues": "Normal: <120/80 mmHg; Elevated: 120-129/<80 mmHg; Stage 1: 130-139/80-89 mmHg; Stage 2: ≥140/90 mmHg",
+    "cachedAt": "2025-01-12T10:00:00.000Z",
+    "keywords": ["blood pressure", "hypertension", "systolic", "diastolic", "cardiovascular", "stroke", "heart disease"]
+  },
+  {
+    "id": 5,
+    "title": "HbA1c (Hemoglobin A1C) Testing",
+    "summary": "HbA1c measures average blood sugar levels over the past 2-3 months. It's used to diagnose diabetes and monitor blood sugar control. Normal levels are below 5.7%. Prediabetes is 5.7-6.4%. Diabetes is 6.5% or higher. For people with diabetes, the target is usually below 7%.",
+    "source": "American Diabetes Association",
+    "sourceUrl": "https://diabetes.org/a1c",
+    "redFlags": "HbA1c levels above 9% indicate poor diabetes control and increased risk of complications. Rapid increases or levels above 10% require immediate medical attention and treatment adjustment.",
+    "normalValues": "Normal: <5.7%; Prediabetes: 5.7-6.4%; Diabetes: ≥6.5%; Target for diabetes: <7% (individualized)",
+    "cachedAt": "2025-01-12T10:00:00.000Z",
+    "keywords": ["hba1c", "hemoglobin a1c", "a1c", "diabetes", "blood sugar control", "glycemic control"]
+  },
+  {
+    "id": 6,
+    "title": "Kidney Function Tests and Interpretation",
+    "summary": "Kidney function tests include creatinine, BUN (blood urea nitrogen), and urinalysis. These tests help detect kidney disease early. Creatinine levels indicate how well kidneys filter waste. Protein in urine can be an early sign of kidney damage. Regular testing is important for people with diabetes or high blood pressure.",
+    "source": "National Kidney Foundation",
+    "sourceUrl": "https://www.kidney.org/atoz/content/know-your-kidney-numbers",
+    "redFlags": "Rising creatinine levels, persistent protein in urine (>150mg/day), blood in urine, or decreased urine output may indicate kidney disease requiring specialist care.",
+    "normalValues": "Creatinine: 0.6-1.2 mg/dL; BUN: 7-20 mg/dL; Protein in urine: <150 mg/day; GFR: >90 mL/min/1.73m²",
+    "cachedAt": "2025-01-12T10:00:00.000Z",
+    "keywords": ["kidney function", "creatinine", "bun", "protein", "urine", "gfr", "nephrology", "renal"]
+  }
+]

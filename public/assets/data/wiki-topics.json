@@ -1,0 +1,56 @@
+[
+  {
+    "title": "Blood Glucose Testing",
+    "summary": "Learn about normal blood glucose ranges, when to test, and what abnormal results might indicate.",
+    "source": "Mayo Clinic",
+    "link": "https://www.mayoclinic.org/tests-procedures/glucose-tolerance-test/about/pac-20394296"
+  },
+  {
+    "title": "Understanding Cholesterol Levels",
+    "summary": "Comprehensive guide to cholesterol types (LDL, HDL), target levels, and lifestyle interventions.",
+    "source": "American Heart Association",
+    "link": "https://www.heart.org/en/health-topics/cholesterol"
+  },
+  {
+    "title": "Urinary Tract Infection (UTI) Guide",
+    "summary": "Symptoms, causes, and treatment of UTIs. Learn when to seek medical attention.",
+    "source": "National Institute of Diabetes and Digestive and Kidney Diseases",
+    "link": "https://www.niddk.nih.gov/health-information/urologic-diseases/bladder-infection-uti-in-adults"
+  },
+  {
+    "title": "Hypertension Management",
+    "summary": "Blood pressure guidelines, lifestyle modifications, and medication options for managing high blood pressure.",
+    "source": "Philippine Society of Hypertension",
+    "link": "https://psh.org.ph/guidelines"
+  },
+  {
+    "title": "Diabetes Prevention and Control",
+    "summary": "Evidence-based strategies for preventing and managing diabetes, including diet and exercise recommendations.",
+    "source": "Department of Health Philippines",
+    "link": "https://doh.gov.ph/diabetes-prevention"
+  },
+  {
+    "title": "Kidney Function Assessment",
+    "summary": "Understanding creatinine, BUN, and other kidney function tests. Early detection of kidney disease.",
+    "source": "National Kidney Foundation",
+    "link": "https://www.kidney.org/atoz/content/know-your-kidney-numbers"
+  },
+  {
+    "title": "Heart Disease Risk Factors",
+    "summary": "Comprehensive overview of cardiovascular risk factors and prevention strategies.",
+    "source": "World Health Organization",
+    "link": "https://www.who.int/health-topics/cardiovascular-diseases"
+  },
+  {
+    "title": "Laboratory Test Interpretation",
+    "summary": "How to understand common lab test results and when to consult your healthcare provider.",
+    "source": "American Association for Clinical Chemistry",
+    "link": "https://www.aacc.org/health-and-science-policy/patient-information"
+  },
+  {
+    "title": "Medication Safety and Interactions",
+    "summary": "Important information about drug interactions, side effects, and safe medication practices.",
+    "source": "Food and Drug Administration Philippines",
+    "link": "https://www.fda.gov.ph/medication-safety"
+  }
+]
